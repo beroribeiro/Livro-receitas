@@ -6,3 +6,4 @@ Olá! Bem vido ao meu livro de receitas :wave:
 
 * Pavê :chocolate_bar: .
 
+* Bolo de cenoura :carrot:.
